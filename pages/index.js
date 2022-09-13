@@ -1,5 +1,3 @@
-import Head from 'next/head'
-import { Text, Box } from '@chakra-ui/react'
 import Hero1 from 'components/Hero1'
 import Hero2 from 'components/Hero2'
 import Hero3 from 'components/Hero3'
